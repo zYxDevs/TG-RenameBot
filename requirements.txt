@@ -7,8 +7,6 @@ Pillow
 
 # to run bot
 pyrogram
-ffmpeg-python==0.2.0
-ffmpeg
 tgcrypto
 
 # for database 😕
