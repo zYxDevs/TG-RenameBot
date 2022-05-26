@@ -6,8 +6,8 @@ numpy
 Pillow
 
 # to run bot
-pyrogram
-git+https://github.com/kkroening/ffmpeg-python
+pyrogram==1.*
+ffmpeg-python
 tgcrypto
 
 # for database 😕
